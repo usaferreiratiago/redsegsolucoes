@@ -15,13 +15,21 @@ const regions = [
     description:
       "Impulsionamos inovação com profundo conhecimento do setor e tecnologia de ponta.",
   },
-    {
+  {
+    title: "Serviços de Recrutamento e Software",
+    location: "Polônia",
+    period: "2013–Presente",
+    description:
+      "Impulsionamos inovação com profundo conhecimento do setor e tecnologia de ponta.",
+  },
+  {
     title: "Serviços de Recrutamento",
     location: "Brasil",
     period: "2013–Presente",
     description:
       "Impulsionamos inovação com profundo conhecimento do setor e tecnologia de ponta.",
   },
+  
 ];
 
 const PortfolioSection = () => {
