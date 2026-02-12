@@ -3,15 +3,22 @@ import sectionBg from "@/assets/section-bg.jpg";
 const regions = [
   {
     title: "Soluções Estratégicas de Staffing",
-    location: "América do Norte (EUA & Canadá)",
-    period: "2018–Presente",
+    location: "Estados Unidos e Canadá)",
+    period: "2015–Presente",
     description:
       "Parceiro confiável para alcançar sucesso através de desenvolvimento de software escalável.",
   },
   {
     title: "Serviços de Recrutamento",
-    location: "Brasil, Índia & Europa",
-    period: "2018–Presente",
+    location: "Europa",
+    period: "2021–Presente",
+    description:
+      "Impulsionamos inovação com profundo conhecimento do setor e tecnologia de ponta.",
+  },
+    {
+    title: "Serviços de Recrutamento",
+    location: "Brasil",
+    period: "2013–Presente",
     description:
       "Impulsionamos inovação com profundo conhecimento do setor e tecnologia de ponta.",
   },

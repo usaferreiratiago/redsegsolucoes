@@ -28,8 +28,8 @@ const AboutSection = () => {
           <p className="text-sm text-muted-foreground mt-1">Projetos Entregues</p>
         </div>
         <div className="text-center">
-          <span className="text-4xl font-extrabold font-heading text-primary">15</span>
-          <p className="text-sm text-muted-foreground mt-1">Anos de Experiência</p>
+          <span className="text-4xl font-extrabold font-heading text-primary">13</span>
+          <p className="text-sm text-muted-foreground mt-1">anos de Experiência</p>
         </div>
       </div>
     </section>
