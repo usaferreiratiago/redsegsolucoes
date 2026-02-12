@@ -51,7 +51,7 @@ const FooterSection = () => {
 
       <div className="max-w-6xl mx-auto mt-12 pt-6 border-t border-border">
         <p className="text-xs text-muted-foreground text-center">
-          © 2020. Todos os direitos reservados.
+          © 2013. Todos os direitos reservados.
         </p>
         <p className="text-xs text-muted-foreground text-center mt-2">
           <span className="font-semibold">Sede:</span> São Paulo, Brasil
