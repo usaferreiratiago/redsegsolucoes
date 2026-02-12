@@ -1,0 +1,64 @@
+import { Mail, Linkedin } from "lucide-react";
+
+const FooterSection = () => {
+  return (
+    <footer id="contato" className="bg-card border-t border-border py-16 px-6 md:px-12">
+      <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12">
+        <div>
+          <h3 className="text-lg font-bold font-heading text-foreground mb-1">Inovação</h3>
+          <p className="text-sm text-muted-foreground mb-6">
+            Provedor líder de serviços completos de TI e soluções de consultoria.
+          </p>
+
+          <div className="space-y-2">
+            <p className="text-sm text-muted-foreground">
+              <span className="font-semibold text-foreground">Para Vendas e Consultas</span>
+            </p>
+            <a
+              href="mailto:contato@redsegsolucoes.com.br"
+              className="text-primary hover:underline text-sm"
+            >
+              contato@redsegsolucoes.com.br
+            </a>
+          </div>
+        </div>
+
+        <div>
+          <h4 className="text-sm font-semibold text-foreground font-heading mb-2">Fale Conosco</h4>
+          <p className="text-sm text-muted-foreground mb-4">
+            Entre em contato para soluções personalizadas. Envie sua consulta agora.
+          </p>
+          <div className="flex items-center gap-4 mt-4">
+            <a
+              href="https://www.linkedin.com/company/redsegsolucoes/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-muted-foreground hover:text-primary transition-colors"
+              aria-label="LinkedIn"
+            >
+              <Linkedin size={20} />
+            </a>
+            <a
+              href="mailto:contato@redsegsolucoes.com.br"
+              className="text-muted-foreground hover:text-primary transition-colors"
+              aria-label="Email"
+            >
+              <Mail size={20} />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className="max-w-6xl mx-auto mt-12 pt-6 border-t border-border">
+        <p className="text-xs text-muted-foreground text-center">
+          © 2020. Todos os direitos reservados.
+        </p>
+        <p className="text-xs text-muted-foreground text-center mt-2">
+          <span className="font-semibold">Sede:</span> São Paulo, Brasil
+        </p>
+      </div>
+    </footer>
+  );
+};
+
+export default FooterSection;
