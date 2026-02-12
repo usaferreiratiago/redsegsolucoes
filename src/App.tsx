@@ -39,7 +39,7 @@ import "./App.css";
 function App() {
   return (
     <div style={{ padding: "40px", textAlign: "center" }}>
-      <h1>RedSeg Soluções</h1>
+      <h1>RedSegSoluções em TI</h1>
       <p>Projeto React + Vite configurado com sucesso.</p>
     </div>
   );
