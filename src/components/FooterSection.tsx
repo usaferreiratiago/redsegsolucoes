@@ -54,7 +54,7 @@ const FooterSection = () => {
           © 2013. Todos os direitos reservados.
         </p>
         <p className="text-xs text-muted-foreground text-center mt-2">
-          <span className="font-semibold">Sede:</span> Belo Horizonte, Brasil
+          <span className="font-semibold">Sede:</span> Brasil
         </p>
       </div>
     </footer>
