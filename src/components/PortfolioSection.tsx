@@ -4,14 +4,14 @@ const regions = [
   {
     title: "Soluções Estratégicas de Staffing",
     location: "Estados Unidos e Canadá)",
-    period: "2015–Presente",
+    period: "Desde 2015",
     description:
       "Parceiro confiável para alcançar sucesso através de desenvolvimento de software escalável.",
   },
   {
     title: "Serviços de Recrutamento e Software",
     location: "Brasil e Europa",
-    period: "2013–Presente",
+    period: "Desde 2013",
     description:
       "Impulsionamos inovação com profundo conhecimento do setor e tecnologia de ponta.",
   },
