@@ -9,7 +9,7 @@ const AboutSection = () => {
             Líder em Serviços de TI
           </h2>
           <p className="text-muted-foreground leading-relaxed">
-            A RedSeg Soluções se destaca na entrega de soluções de software customizadas para atender às necessidades específicas dos nossos clientes. Nossa equipe dedicada de especialistas combina profundo conhecimento do setor com tecnologia de ponta para impulsionar inovação e aumentar a eficiência empresarial.
+            A RedSegSoluções se destaca na entrega de soluções de software customizadas para atender às necessidades específicas dos nossos clientes. Nossa equipe dedicada de especialistas combina profundo conhecimento do setor com tecnologia de ponta para impulsionar inovação e aumentar a eficiência empresarial.
           </p>
         </div>
         <div className="flex justify-center">

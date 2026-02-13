@@ -14,14 +14,14 @@ const TestimonialSection = () => {
 
         <blockquote className="bg-card border border-border rounded-lg p-8 text-left max-w-2xl mx-auto">
           <p className="text-muted-foreground italic leading-relaxed text-sm">
-            "Serviço incrível! A equipe da RedSeg Soluções tem superado expectativas consistentemente com sua expertise excepcional em recrutamento e suporte eficiente de staffing. Trabalho com eles desde 2013 e entregaram profissionais de alto nível para minha organização nos EUA, Brasil e Polônia. Altamente recomendado!"
+            "Serviço incrível! A equipe da RedSegSoluções tem superado expectativas consistentemente com sua expertise excepcional em recrutamento e suporte eficiente de staffing. Trabalho com eles desde 2013 e entregaram profissionais de alto nível para minha organização nos EUA, Brasil e Polônia. Altamente recomendado!"
           </p>
           <div className="mt-6">
             <p className="font-bold text-foreground font-heading text-sm">
               Tiago Henrique Ribeiro Ferreira
             </p>
             <p className="text-xs text-muted-foreground">
-              Fundador RedSeg Soluções IT &{" "}
+              Fundador RedSegSoluções IT &{" "}
               <a href="https://www.aiapplicationtracking.com/" className="text-primary hover:underline">
                 AIApplicationtracking.com
               </a>
