@@ -6,7 +6,7 @@ const TestimonialSection = () => {
           Parceiro Confiável para o Sucesso
         </h2>
         <a
-          href="mailto:contato@redsegsolucoes.com.br"
+          href="mailto:tiago@infodatamatrix.com"
           className="inline-block bg-primary text-primary-foreground font-heading font-semibold text-sm px-8 py-3 rounded-full hover:opacity-90 transition-opacity mt-4 mb-12"
         >
           Contato

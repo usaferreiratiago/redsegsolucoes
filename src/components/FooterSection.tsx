@@ -15,10 +15,10 @@ const FooterSection = () => {
               <span className="font-semibold text-foreground">Para Vendas e Consultas</span>
             </p>
             <a
-              href="mailto:contato@redsegsolucoes.com.br"
+              href="mailto:tiago@infodatamatrix.com"
               className="text-primary hover:underline text-sm"
             >
-              contato@redsegsolucoes.com.br
+              tiago@infodatamatrix.com
             </a>
           </div>
         </div>
@@ -30,7 +30,7 @@ const FooterSection = () => {
           </p>
           <div className="flex items-center gap-4 mt-4">
             <a
-              href="https://www.linkedin.com/company/redsegsolucoes/"
+              href="https://www.linkedin.com/company/aiapplicationtracking/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -39,7 +39,7 @@ const FooterSection = () => {
               <Linkedin size={20} />
             </a>
             <a
-              href="mailto:contato@redsegsolucoes.com.br"
+              href="mailto:tiago@infodatamatrix.com"
               className="text-muted-foreground hover:text-primary transition-colors"
               aria-label="Email"
             >
