@@ -9,22 +9,8 @@ const regions = [
       "Parceiro confiável para alcançar sucesso através de desenvolvimento de software escalável.",
   },
   {
-    title: "Serviços de Recrutamento",
-    location: "Europa",
-    period: "2021–Presente",
-    description:
-      "Impulsionamos inovação com profundo conhecimento do setor e tecnologia de ponta.",
-  },
-  {
     title: "Serviços de Recrutamento e Software",
-    location: "Polônia",
-    period: "2013–Presente",
-    description:
-      "Impulsionamos inovação com profundo conhecimento do setor e tecnologia de ponta.",
-  },
-  {
-    title: "Serviços de Recrutamento",
-    location: "Brasil",
+    location: "Brasil e Europa",
     period: "2013–Presente",
     description:
       "Impulsionamos inovação com profundo conhecimento do setor e tecnologia de ponta.",
