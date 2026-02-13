@@ -40,7 +40,7 @@ function App() {
   return (
     <div style={{ padding: "40px", textAlign: "center" }}>
       <h1>RedSegSoluções em TI</h1>
-      <p>Projeto React + Vite configurado com sucesso.</p>
+      <p>Projeto React + Vite configurado com Sucesso.</p>
     </div>
   );
 }
