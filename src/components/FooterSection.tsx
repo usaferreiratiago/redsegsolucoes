@@ -5,7 +5,7 @@ const FooterSection = () => {
     <footer id="contato" className="bg-card border-t border-border py-16 px-6 md:px-12">
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12">
         <div>
-          <h3 className="text-lg font-bold font-heading text-foreground mb-1">Inovação</h3>
+          <h3 className="text-lg font-bold font-heading text-foreground text-blue-700 mb-1">Inovação</h3>
           <p className="text-sm text-muted-foreground mb-6">
             Provedor líder de serviços completos de TI e soluções de consultoria.
           </p>
@@ -24,11 +24,11 @@ const FooterSection = () => {
         </div>
 
         <div>
-          <h4 className="text-sm font-semibold text-foreground font-heading mb-2">Fale Conosco</h4>
+          <h4 className="text-sm font-semibold text-foreground font-heading text-blue-700 mb-2">Fale Conosco</h4>
           <p className="text-sm text-muted-foreground mb-4">
             Entre em contato para soluções personalizadas. Envie sua consulta agora.
           </p>
-          <div className="flex items-center gap-4 mt-4">
+          <div className="flex items-center gap-4 mt-4 text-center mx-auto">
             <a
               href="https://www.linkedin.com/company/aiapplicationtracking/"
               target="_blank"
