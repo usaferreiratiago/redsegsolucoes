@@ -52,10 +52,10 @@ const ServicesSection = () => {
         </div>
 
         <div className="mt-16 bg-secondary rounded-lg p-8 md:p-12">
-          <h3 className="text-2xl font-bold font-heading text-foreground mb-2">
+          <h3 className="text-2xl font-bold text-blue-700 font-heading text-foreground mb-2">
             Soluções Inovadoras
           </h3>
-          <p className="text-muted-foreground max-w-xl">
+          <p className="text-muted-foreground max-w-xl text-cent mx-auto">
             Entregamos soluções de software customizadas para atender às necessidades específicas de cada cliente. Aprimore a eficiência do seu negócio através da inovação.
           </p>
         </div>
