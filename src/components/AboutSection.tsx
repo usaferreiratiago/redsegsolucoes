@@ -24,11 +24,11 @@ const AboutSection = () => {
 
       <div className="max-w-6xl mx-auto mt-12 flex flex-wrap gap-12 justify-center">
         <div className="text-center">
-          <span className="text-4xl font-extrabold font-heading text-primary">150+</span>
+          <span className="text-4xl font-extrabold font-heading text-primary text-blue-700">150+</span>
           <p className="text-sm text-muted-foreground mt-1">Projetos Entregues</p>
         </div>
         <div className="text-center">
-          <span className="text-4xl font-extrabold font-heading text-primary">13</span>
+          <span className="text-4xl font-extrabold font-heading text-primary text-blue-700">13</span>
           <p className="text-sm text-muted-foreground mt-1">anos de Experiência</p>
         </div>
       </div>

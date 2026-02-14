@@ -10,7 +10,7 @@ const regions = [
   },
   {
     title: "Soluções Estratégicas de Staffing",
-    location: "Estados Unidos e Canadá)",
+    location: "Estados Unidos e Canadá",
     period: "Desde 2015",
     description:
       "Parceiro confiável para alcançar sucesso através de desenvolvimento de software escalável.",
@@ -32,7 +32,7 @@ const PortfolioSection = () => {
       </div>
 
       <div className="max-w-6xl mx-auto py-16 px-6 md:px-12">
-        <h2 className="text-2xl md:text-3xl font-bold font-heading text-foreground mb-2">Sucesso</h2>
+        <h2 className="text-2xl md:text-3xl font-bold font-heading text-foreground text-blue-700 mb-2">Sucesso</h2>
 
         <div className="grid md:grid-cols-2 gap-8 mt-8">
           {regions.map((r) => (
