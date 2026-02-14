@@ -37,7 +37,7 @@ const PortfolioSection = () => {
         <div className="grid md:grid-cols-2 gap-8 mt-8">
           {regions.map((r) => (
             <div key={r.title} className="bg-card border border-border rounded-lg p-6">
-              <h4 className="text-base font-bold font-heading text-foreground mb-1">{r.title}</h4>
+              <h4 className="text-base font-bold font-heading text-foreground text-blue-700 mb-1">{r.title}</h4>
               <p className="text-xs text-primary mb-1">{r.location}</p>
               <p className="text-xs text-muted-foreground mb-3">{r.period}</p>
               <p className="text-sm text-muted-foreground">{r.description}</p>
