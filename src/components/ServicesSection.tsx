@@ -23,7 +23,7 @@ const ServicesSection = () => {
         <h2 className="text-3xl md:text-4xl font-bold text-blue-700 font-heading text-foreground mb-4">
           Soluções de Software
         </h2>
-        <p className="text-muted-foreground mb-12 max-w-2xl">
+        <p className="text-muted-foreground mb-12 max-w-2xl text-center mx-auto">
           Provedor líder de serviços completos de TI e consultoria, especializado em desenvolvimento de software.
         </p>
 
