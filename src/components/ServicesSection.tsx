@@ -20,7 +20,7 @@ const ServicesSection = () => {
   return (
     <section id="servicos" className="py-20 px-6 md:px-12 bg-background">
       <div className="max-w-6xl mx-auto">
-        <h2 className="text-3xl md:text-4xl font-bold font-heading text-foreground mb-4">
+        <h2 className="text-3xl md:text-4xl font-bold text-blue-700 font-heading text-foreground mb-4">
           Soluções de Software
         </h2>
         <p className="text-muted-foreground mb-12 max-w-2xl">
