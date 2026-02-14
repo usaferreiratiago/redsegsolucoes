@@ -18,7 +18,7 @@ const Navbar = () => {
           <a
             key={link.href}
             href={link.href}
-            className="hidden md:block text-sm font-medium text-foreground hover:text-primary transition-colors font-heading"
+            className="hidden md:block text-sm font-medium text-foreground text-blue-700 hover:text-primary transition-colors font-heading"
           >
             {link.label}
           </a>
