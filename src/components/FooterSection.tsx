@@ -23,12 +23,16 @@ const FooterSection = () => {
           </div>
         </div>
 
-        <div>
-          <h4 className="text-sm font-semibold text-foreground font-heading text-blue-700 mb-2">Fale Conosco</h4>
+        <div className="text-center">
+          <h4 className="text-lg font-bold font-heading text-blue-700 mb-1">
+            Fale Conosco
+          </h4>
+
           <p className="text-sm text-muted-foreground mb-4">
             Entre em contato para soluções personalizadas. Envie sua consulta agora.
           </p>
-          <div className="flex items-center gap-4 mt-4 text-center mx-auto">
+
+          <div className="flex justify-center items-center gap-4 mt-4">
             <a
               href="https://www.linkedin.com/company/aiapplicationtracking/"
               target="_blank"
@@ -38,6 +42,7 @@ const FooterSection = () => {
             >
               <Linkedin size={20} />
             </a>
+
             <a
               href="mailto:tiago@infodatamatrix.com"
               className="text-muted-foreground hover:text-primary transition-colors"
