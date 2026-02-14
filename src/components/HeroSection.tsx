@@ -24,7 +24,7 @@ const HeroSection = () => {
           href="#servicos"
           className="inline-block bg-primary text-primary-foreground font-heading font-semibold text-base px-10 py-4 rounded-full hover:opacity-90 transition-opacity"
         >
-          Explorar
+          {/* Explorar */}
         </a>
       </div>
     </section>
