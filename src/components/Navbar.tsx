@@ -26,7 +26,7 @@ const Navbar = () => {
       </div>
 
       <div className="absolute left-1/2 -translate-x-1/2">
-        <span className="text-2xl font-bold font-heading text-primary tracking-tight">
+        <span className="text-2xl font-bold text-blue-700 font-heading text-primary tracking-tight">
           RedSegSoluções
         </span>
       </div>
