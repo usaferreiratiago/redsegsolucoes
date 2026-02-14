@@ -40,7 +40,7 @@ const ServicesSection = () => {
                 loading="lazy"
               />
               <div className="p-6">
-                <h3 className="text-lg font-bold font-heading text-foreground mb-2">
+                <h3 className="text-lg font-bold text-blue-700 font-heading text-foreground mb-2">
                   {service.title}
                 </h3>
                 <p className="text-sm text-muted-foreground">
