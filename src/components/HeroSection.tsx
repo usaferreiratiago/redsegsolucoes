@@ -14,7 +14,7 @@ const HeroSection = () => {
       <div className="absolute inset-0 bg-background/60" />
 
       <div className="relative z-10 max-w-2xl text-center px-6 md:text-right md:ml-auto md:mr-20">
-        <h1 className="text-4xl md:text-6xl font-extrabold text-foreground font-heading leading-tight mb-6">
+        <h1 className="text-4xl md:text-6xl font-extrabold text-foreground font-heading leading-tight text-blue-700 mb-6">
           Líder em Soluções de TI
         </h1>
         <p className="text-base md:text-lg text-muted-foreground mb-8 max-w-lg md:ml-auto">

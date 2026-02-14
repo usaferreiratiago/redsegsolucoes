@@ -5,7 +5,7 @@ const AboutSection = () => {
     <section className="py-20 px-6 md:px-12 bg-secondary">
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
         <div>
-          <h2 className="text-2xl md:text-3xl font-bold font-heading text-foreground mb-6">
+          <h2 className="text-2xl md:text-3xl font-bold font-heading text-foreground text-blue-700 mb-6">
             Líder em Serviços de TI
           </h2>
           <p className="text-muted-foreground leading-relaxed">

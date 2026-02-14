@@ -12,13 +12,13 @@ const FooterSection = () => {
 
           <div className="space-y-2">
             <p className="text-sm text-muted-foreground">
-              <span className="font-semibold text-foreground">Para Vendas e Consultas</span>
+              <span className="font-semibold text-foreground text-blue-700 ">Para Vendas e Consultas</span>
             </p>
             <a
               href="mailto:tiago@infodatamatrix.com"
               className="text-primary hover:underline text-sm"
             >
-              tiago@infodatamatrix.com
+              {/* tiago@infodatamatrix.com */}
             </a>
           </div>
         </div>
