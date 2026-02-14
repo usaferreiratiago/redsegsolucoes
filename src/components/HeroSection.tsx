@@ -17,7 +17,7 @@ const HeroSection = () => {
         <h1 className="text-4xl md:text-6xl font-extrabold text-foreground font-heading leading-tight text-blue-700 mb-6">
           Líder em Soluções de TI
         </h1>
-        <p className="text-base md:text-lg text-muted-foreground mb-8 max-w-lg md:ml-auto">
+        <p className="text-base md:text-lg text-muted-foreground text-blue-500 mb-8 max-w-lg md:ml-auto">
           Especializada em desenvolvimento de software, recrutamento e alocação de profissionais para impulsionar inovação e eficiência empresarial.
         </p>
         <a
