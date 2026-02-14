@@ -18,7 +18,7 @@ const FooterSection = () => {
               href="mailto:tiago@infodatamatrix.com"
               className="text-primary hover:underline text-sm"
             >
-              {/* tiago@infodatamatrix.com */}
+              tiago@infodatamatrix.com
             </a>
           </div>
         </div>
